@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "972128252403",
+    "project_id": "f-f-crash-course-s6poh8",
+    "storage_bucket": "f-f-crash-course-s6poh8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972128252403:android:1013462cb503c2cd7f6286",
+        "android_client_info": {
+          "package_name": "com.mycompany.ffcrashcourse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEjy5sglq5R-RSK5VBzyS8EMnoxpcivls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
